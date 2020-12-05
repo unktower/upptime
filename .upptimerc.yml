@@ -1,23 +1,29 @@
-# Change these first
-owner: unktower # Your GitHub username
-repo: upptime # Your Github repository name
+owner: unktower
+repo: upptime
+user-agent: unktower_upptime
 
-# Add your sites here
+# Sites
 sites:
   - name: Website
     url: http://unktower.com
   - name: API
-    url: http://api.unktower.com
+    url: $SECRET_URL_API
+
+# Users to assign downtime issues
+assignees: 
+  - clazstudio
+  - Unkntower
+
+# Time intervals
+workflowSchedule:
+  uptime: "*/10 * * * *"
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.unktower.com
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  introTitle: "**UNKNOWNtower** uptime monitor and status page."
+  introMessage: "Powered by [Upptime](https://github.com/koj-co/upptime)."
   navbar:
     - title: Status
       href: /
@@ -26,5 +32,4 @@ status-website:
     - title: Steam Group
       href: https://steamcommunity.com/gid/32362920
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# https://upptime.js.org/docs/configuration
