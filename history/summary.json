@@ -2,6 +2,7 @@
   {
     "name": "Website",
     "url": "http://unktower.com",
+    "icon": "https://favicons.githubusercontent.com/unktower.com",
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 442,
-    "timeDay": 442,
-    "timeWeek": 442,
-    "timeMonth": 442,
-    "timeYear": 442
+    "time": 427,
+    "timeDay": 382,
+    "timeWeek": 427,
+    "timeMonth": 427,
+    "timeYear": 427,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
     "url": "$SECRET_URL_API",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
@@ -25,10 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 437,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437
+    "time": 426,
+    "timeDay": 392,
+    "timeWeek": 426,
+    "timeMonth": 426,
+    "timeYear": 426,
+    "dailyMinutesDown": {}
   }
 ]
