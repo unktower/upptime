@@ -5,7 +5,7 @@ user-agent: unktower_upptime
 # Sites
 sites:
   - name: Website
-    url: http://unktower.com
+    url: https://unktower.com
   - name: API
     url: $SECRET_URL_API
 
@@ -28,7 +28,7 @@ status-website:
     - title: Status
       href: /
     - title: Website
-      href: http://unktower.com
+      href: https://unktower.com
     - title: Steam Group
       href: https://steamcommunity.com/gid/32362920
 
