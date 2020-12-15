@@ -1,7 +1,7 @@
 [
   {
     "name": "Website",
-    "url": "http://unktower.com",
+    "url": "https://unktower.com",
     "icon": "https://favicons.githubusercontent.com/unktower.com",
     "slug": "website",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 415,
-    "timeDay": 368,
-    "timeWeek": 408,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "time": 435,
+    "timeDay": 523,
+    "timeWeek": 441,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 277,
-    "timeWeek": 372,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 412,
+    "timeDay": 454,
+    "timeWeek": 405,
+    "timeMonth": 412,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   }
 ]
