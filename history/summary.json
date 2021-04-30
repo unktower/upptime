@@ -38,7 +38,7 @@
     "url": "$SECRET_URL_API",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
